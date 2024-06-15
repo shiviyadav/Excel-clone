@@ -27,3 +27,4 @@ Reporting: Develop comprehensive reports that summarize key findings and metrics
 
 Excel is more than just a spreadsheet tool; it is a comprehensive platform for data management and analysis. This project aims to unlock its full potential, transforming raw data into actionable intelligence. Through meticulous planning and execution, we strive to achieve a solution that not only meets but exceeds the expectations of all stakeholders involved.
 
+![Screenshot (240)](https://github.com/shiviyadav/Excel-clone/assets/113198378/2e1e0fef-be79-43fe-a5e7-a671245f3263)
